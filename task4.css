@@ -1,0 +1,82 @@
+html,body,div,span,footer,header,input{margin:0;padding:0;border:0;font: normal 100%;font-family:"Microsoft YaHei", "微软雅黑";font-size: 16px;}
+content,header,{display: block;clear: none;}
+html{
+    margin:0 auto;
+
+}
+body {
+    margin:0 auto;
+    background-color: #EFF0F4;
+}
+.header{
+    width:100%;
+    background-color:#5FBFCD;
+    padding: 5% 0 10% 0;
+    position:relative;
+}
+.close{
+    position:relative;
+    width: 25%;
+    color: #D7EFF3;
+    font-size: 2em;
+    float: left;
+    text-align: center;
+}
+.title{
+    position:relative;
+    width: 50%;
+    color: #D7EFF3;
+    font-size: 2em;
+    float: left;
+    text-align: center;
+}
+.login{
+     position:relative;
+     width: 25%;
+     color: #D7EFF3;
+     font-size: 2em;
+     float: right;
+    text-align: center;
+ }
+.content{
+    position:relative;
+    background-color: #EFF0F4;
+    float: left;
+    width: 100%;
+    color: #E1E5E7;
+}
+.accounts{
+    position:relative;
+    background-color: #FFFFFF;
+    float: left;
+    width: 100%;
+    padding:  5% 0 5% 0;
+    margin: 4% 0 1.5% 0;
+}
+.phonenum{
+    position:relative;
+    width: 50%;
+    line-height: 10%;
+    float: right;
+    margin: 0 18% 0 18%;
+    /*padding:  1% 0 1% 0;*/
+    /*text-align: center;*/
+    clear: right;
+}
+.phonenum>span{
+    position:relative;
+    width: 10%;
+    line-height: 10%;
+    float: left;
+    padding:  5% 0 5% 0;
+    margin: 5% 0 5% 0;
+}
+.cipher{
+    background-color: #FFFFFF;
+    float: left;
+    width: 100%;
+    padding:  5% 0 5% 0;
+    margin: 1.5% 0 4% 0;
+}
+
+
